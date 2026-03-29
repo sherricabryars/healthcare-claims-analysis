@@ -77,8 +77,8 @@ Operational planning must consider both cost and clinical risk
 ### Patient & Demographics Insights
 ![Patient Insights](patient_insights.png)
 
-### Provider Performance
-![Provider Analysis](provider_analysis.png)
+### Cost Breakdown
+![Cost Breakdown](cost_drivers.png)
 
 ---
 
